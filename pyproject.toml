@@ -9,6 +9,7 @@ packages = [{include = "book_bot"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 python-telegram-bot = "^20.0"
+telegram = "^0.0.1"
 
 
 [build-system]
